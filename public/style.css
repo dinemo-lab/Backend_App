@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+     align-items: center;
+}
+ 
+h1{
+    text-decoration: underline;
+}
+
+main{
+       
+      background-color: blue;
+      text-align: center;
+      padding: 30px 40px;
+      width: 200px;
+      height: 400px;
+      margin: 60px auto;
+      border-radius: 10px;
+
+}
+
+main form {
+    padding: 40px 10px ;
+    text-align: center;
+
+}
+
+input{
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+ 
+    border: none;
+}
+
+button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: large;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.longin-btn{
+
+    margin-left: 50%;
+}
